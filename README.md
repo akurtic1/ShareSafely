@@ -38,10 +38,11 @@ After deploying the Storage Account, I created a container to store the uploaded
 
 So in this part, I was tasked to develop a Web application using node.js.
 Since this is my first time using the node.js, I decided to go with documentation and chatGPT to develop the application.
-I also added as imple HTMl file that is conneced with node.js application.
+I also added as imple HTML file that is conneced with node.js application.
 
 I run the following command "node app.js" to test if this is working.
 My application is working and I tested if its possible to upload the files.
+
 + App JS (https://github.com/akurtic1/ShareSafely/blob/77f1a38ec3cc16b3403cd9171859eda552863176/media/app.js)
 + Html (https://github.com/akurtic1/ShareSafely/blob/44fb1c28b1316ac9397a8585ae5d764f22048f5e/media/index.html)
 
