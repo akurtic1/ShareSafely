@@ -20,8 +20,7 @@ These are the resources I have used. Some of them I interacted for the first tim
 + Azure Web Apps
 + Azure Data Storage
 + JavaScript
-+ NodeJS
-+ Git  
++ Azure Key Vault
 
 ## ☁️ Step 1 - Creating a Storage Account
 
