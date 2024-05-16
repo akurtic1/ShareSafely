@@ -42,8 +42,8 @@ I also added as imple HTMl file that is conneced with node.js application.
 
 I run the following command "node app.js" to test if this is working.
 My application is working and I tested if its possible to upload the files.
-![App JS]([./media/az104-lab11-architecture.png](https://github.com/akurtic1/ShareSafely/blob/77f1a38ec3cc16b3403cd9171859eda552863176/media/app.js))
-![Html]([./media/az104-lab11-architecture.png](https://github.com/akurtic1/ShareSafely/blob/44fb1c28b1316ac9397a8585ae5d764f22048f5e/media/index.html))
++ App JS (https://github.com/akurtic1/ShareSafely/blob/77f1a38ec3cc16b3403cd9171859eda552863176/media/app.js)
++ Html (https://github.com/akurtic1/ShareSafely/blob/44fb1c28b1316ac9397a8585ae5d764f22048f5e/media/index.html)
 
 After working on the previous tasks, I had to deploy the application using Azure Web Apps.
 In the configuration of the Azure Web Apps, I chose "Local Git" as my deployment method.
